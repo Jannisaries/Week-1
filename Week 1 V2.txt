@@ -1,0 +1,2 @@
+First week was working on the scene / setting it up. We were to develop it so it could be capable of playing animations, and player movement. 
+And, afterwards, stylising the scene with new additions or edits. Generally, whatever we wanted could be added to the scene.

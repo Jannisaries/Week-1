@@ -1,0 +1,2 @@
+First week was working on the code. We were to develop it so it could be capable of playing animations. 
+And, afterwards, stylising the scene with new additions or edits. Generally, whatever we wanted could be added to the scene.
